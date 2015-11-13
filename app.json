@@ -1,0 +1,12 @@
+{
+  "name": "React Cards",
+  "description": "Learning cards in React",
+  "keywords": [ "react", "reactjs", "cards" ],
+  "repository": "https://github.com/ThomasHepner/react-cards",
+  "logo": "https://facebook.github.io/react/img/logo.svg",
+  "website": "http://facebook.github.io/react/docs/tutorial.html",
+  "success_url": "/",
+  "env" : {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+  }
+}
